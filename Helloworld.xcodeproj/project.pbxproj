@@ -16,7 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		156E39072410214300925AC7 /* Helloworid.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Helloworid.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		156E39072410214300925AC7 /* Helloworld.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Helloworld.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		156E390A2410214300925AC7 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		156E390C2410214300925AC7 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		156E390E2410214300925AC7 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -40,7 +40,7 @@
 		156E38FE2410214300925AC7 = {
 			isa = PBXGroup;
 			children = (
-				156E39092410214300925AC7 /* Helloworid */,
+				156E39092410214300925AC7 /* Helloworld */,
 				156E39082410214300925AC7 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -48,12 +48,12 @@
 		156E39082410214300925AC7 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				156E39072410214300925AC7 /* Helloworid.app */,
+				156E39072410214300925AC7 /* Helloworld.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		156E39092410214300925AC7 /* Helloworid */ = {
+		156E39092410214300925AC7 /* Helloworld */ = {
 			isa = PBXGroup;
 			children = (
 				156E390A2410214300925AC7 /* AppDelegate.swift */,
@@ -64,15 +64,15 @@
 				156E39152410214400925AC7 /* LaunchScreen.storyboard */,
 				156E39182410214400925AC7 /* Info.plist */,
 			);
-			path = Helloworid;
+			path = Helloworld;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		156E39062410214300925AC7 /* Helloworid */ = {
+		156E39062410214300925AC7 /* Helloworld */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 156E391B2410214400925AC7 /* Build configuration list for PBXNativeTarget "Helloworid" */;
+			buildConfigurationList = 156E391B2410214400925AC7 /* Build configuration list for PBXNativeTarget "Helloworld" */;
 			buildPhases = (
 				156E39032410214300925AC7 /* Sources */,
 				156E39042410214300925AC7 /* Frameworks */,
@@ -82,9 +82,9 @@
 			);
 			dependencies = (
 			);
-			name = Helloworid;
+			name = Helloworld;
 			productName = Helloworid;
-			productReference = 156E39072410214300925AC7 /* Helloworid.app */;
+			productReference = 156E39072410214300925AC7 /* Helloworld.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -102,7 +102,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 156E39022410214300925AC7 /* Build configuration list for PBXProject "Helloworid" */;
+			buildConfigurationList = 156E39022410214300925AC7 /* Build configuration list for PBXProject "Helloworld" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -115,7 +115,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				156E39062410214300925AC7 /* Helloworid */,
+				156E39062410214300925AC7 /* Helloworld */,
 			);
 		};
 /* End PBXProject section */
@@ -317,7 +317,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		156E39022410214300925AC7 /* Build configuration list for PBXProject "Helloworid" */ = {
+		156E39022410214300925AC7 /* Build configuration list for PBXProject "Helloworld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				156E39192410214400925AC7 /* Debug */,
@@ -326,7 +326,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		156E391B2410214400925AC7 /* Build configuration list for PBXNativeTarget "Helloworid" */ = {
+		156E391B2410214400925AC7 /* Build configuration list for PBXNativeTarget "Helloworld" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				156E391C2410214400925AC7 /* Debug */,
